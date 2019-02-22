@@ -11,7 +11,7 @@ Install the dependencies
 npm i
 ```
 
-Then create a `.env` file based on `.env.example` by including your keys instead to the placeholders
+Then create a `.env` file based on `.env.example` by including your keys instead of the placeholders
 
 Run the example with
 ```
