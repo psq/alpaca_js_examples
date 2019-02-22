@@ -1,0 +1,18 @@
+{
+  "name": "alpaca1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node ./test2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^1.0.2",
+    "dotenv": "^6.2.0",
+    "moving-averages": "^4.0.5",
+    "nodemon": "^1.18.10"
+  }
+}
