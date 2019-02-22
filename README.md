@@ -1,20 +1,26 @@
 Port of the python example algo to Javascript (node.js)
 
-First install the dependencies
+Clone the repo
+```
+git clone https://github.com/psq/alpaca_js_examples.git
+cd alpaca_js_examples
+```
 
+Install the dependencies
 ```
 npm i
 ```
 
 Then create a `.env` file based on `.env.example` by including your keys instead to the placeholders
 
-then run the example with
-
+Run the example with
 ```
 node test1
 ```
 
-Or the algo with
+Run the algo with
 ```
 npm start
 ```
+
+In case it crashes, it should restart.
